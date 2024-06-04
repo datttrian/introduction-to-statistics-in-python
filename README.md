@@ -1,5 +1,7 @@
 # Introduction to Statistics in Python
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datttrian/introduction-to-statistics-in-python/blob/main/src/notebook.ipynb)
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/datttrian/introduction-to-statistics-in-python)
 
 This is a repository for the DataCamp course Introduction to Statistics in Python. The
